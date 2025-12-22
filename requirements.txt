@@ -1,0 +1,6 @@
+the code is written in pure Python standard library to ensure maximum compatibility, so this file can remain empty or basic.
+
+```
+# no external dependencies required
+# runs on Python 3.6+
+```
