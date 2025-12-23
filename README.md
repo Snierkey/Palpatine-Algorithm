@@ -43,8 +43,12 @@ solver.visualize(result)
 ## Output Legend
 
 - `•`: Standard movement
-- `ϟ`: **UNLIMITED POWER**
+- `ϟ`: **UNLIMITED POWERRRR**
 - `##`: Undestroyed Wall
+
+## Note
+
+This is the final version btw, i dont think this needs updates in the future unless its optimization or sum like that
 
 ## License
 
